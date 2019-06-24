@@ -1,0 +1,6 @@
+{
+    "extends": "tslint-config-standard-plus",
+    "rules": {
+        "no-use-before-declare": false
+    }
+}
