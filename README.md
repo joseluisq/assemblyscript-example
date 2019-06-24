@@ -1,8 +1,8 @@
-# AssemblyScript Example
+# AssemblyScript Module Example
 
-> Small example how to create a [WebAssembly](https://webassembly.org/) module via [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) and use it from [NodeJS](https://nodejs.org/en/).
+> Small example of a [WebAssembly](https://webassembly.org/) module written in Typescript ([AssemblyScript](https://github.com/AssemblyScript/assemblyscript)) and used from [NodeJS](https://nodejs.org/en/).
 
-_Example used in the meetup: [NodeJS Meetup Leipzig #6](https://www.meetup.com/de-DE/NodeJS-Meetup-Leipzig/events/262224036/)._
+_This example was presented in [NodeJS Meetup Leipzig #6: WebAssembly and NodeJS](https://www.meetup.com/de-DE/NodeJS-Meetup-Leipzig/events/262224036/)._
 
 ## Install
 
@@ -26,7 +26,7 @@ yarn test
 
 ## Contributions
 
-[Pull requests](https://github.com/joseluisq/gitnow/pulls) and [issues](https://github.com/joseluisq/gitnow/issues) are welcome.
+[Pull requests](https://github.com/joseluisq/assemblyscript-example/pulls) and [issues](https://github.com/joseluisq/assemblyscript-example/issues) are welcome.
 
 ## License
 MIT license
